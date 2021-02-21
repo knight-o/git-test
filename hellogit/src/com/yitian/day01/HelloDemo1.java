@@ -9,5 +9,9 @@ package com.yitian.day01;
 public class HelloDemo1 {
     public static void main(String[] args) {
         System.out.println("hello wrold");
+        System.out.println("add hello");
+        System.out.println("add hello");
+        System.out.println("add hello");
+        System.out.println("add hello");
     }
 }
